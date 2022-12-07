@@ -20,5 +20,25 @@ Right now I fell curious about learning JavaScript and I started rs-school cours
 * JavaScript (Basics)
 ***
 ## Projects
-* [Student simulator](https://github.com/trullse/student_simulator) (Mobile game) 
+* Student simulator (Mobile game) [GitHub link](https://github.com/trullse/student_simulator)
 ***
+## Code example
+```c++
+int solution(int number) 
+{
+  if (number < 3)
+    return 0;
+  int sum = 0;
+  for (int i = 3; i < number; ++i)
+  {
+    if (!(i % 3) || !(i % 5))
+      sum += i;
+  }
+  return sum;
+}
+```
+***
+## Languages
+* Russian (native)
+* Belarusian (native)
+* English (intermediate)
