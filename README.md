@@ -1,1 +1,1 @@
-# rsschool-cv
+https://trullse.github.io/rsschool-cv/
